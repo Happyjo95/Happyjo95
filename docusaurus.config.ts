@@ -13,12 +13,12 @@ const config: Config = {
     // TODO( github project link )
     url: 'https://happyjo95.github.io',
     // TODO (github project name e.g. /simple-web-programming/ )
-    baseUrl: '/Happyjo95/',
+    baseUrl: '/hodu/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'Happyjo95', // TODO( github username e.g. seonWKim )
-    projectName: 'Happyjo95', // TODO( github repository name e.g. simple-web-programming )
+    projectName: 'hodu', // TODO( github repository name e.g. simple-web-programming )
     deploymentBranch: "gh-pages",
 
     onBrokenLinks: 'throw',
