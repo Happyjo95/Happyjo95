@@ -12,32 +12,41 @@ type FeatureItem = {
 // Free illustrations: https://undraw.co/illustrations
 const FeatureList: FeatureItem[] = [
     {
-        title: 'Item 1',
+        title: '1st',
         Svg: require('@site/static/img/leaders.svg').default,
         description: (
             <>
-                Description 1
+                Clap a lot
             </>
         ),
     },
     {
-        title: 'Item 2',
+        title: '2st',
         Svg: require('@site/static/img/speech.svg').default,
         description: (
             <>
-              Description 2
+              Shake your Hand When you come and leave the stage
             </>
         ),
     },
     {
-        title: 'Item 3',
+        title: '3st',
         Svg: require('@site/static/img/gatherings.svg').default,
         description: (
             <>
-              Description 3
+              Turn your phone into the Silent Mode
             </>
         ),
     },
+    {
+      title: '4st',
+      Svg: require('@site/static/img/Money.svg').default,
+      description: (
+          <>
+            Please pay the room fee to the Kakao Bank 차영주
+          </>
+      ),
+  },
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {

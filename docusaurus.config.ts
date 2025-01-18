@@ -6,8 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
     // TODO: fix title, tagline, favicon
-    title: 'Jaeho's Life',
-    tagline: 'Tagline',
+    title: 'Welcome to HDTM',
+    tagline: 'Crushing your Monday Blues',
     favicon: 'img/favicon.ico',
 
     // TODO( github project link )
