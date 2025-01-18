@@ -17,7 +17,7 @@ const config: Config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'Hjaeho', // TODO( github username e.g. seonWKim )
+    organizationName: 'Happyjo95', // TODO( github username e.g. seonWKim )
     projectName: 'Happyjo95', // TODO( github repository name e.g. simple-web-programming )
     deploymentBranch: "gh-pages",
 
